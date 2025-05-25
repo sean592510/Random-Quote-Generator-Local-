@@ -1,5 +1,5 @@
 ###### Random Quote Machine
-A React-based web application that displays random inspirational quotes, built as part of the freeCodeCamp Front End Development Libraries certification. The app allows users to view a random quote, fetch a new one, and share it on Twitter. It uses a local array of quotes, Bootstrap for styling, and is deployed for testing with freeCodeCamp’s test suite & for personal learning for future upskilling of projects.
+A React-based web application that displays random inspirational quotes, built as part of the freeCodeCamp Front End Development Libraries certification. The app allows users to view a random quote, fetch a new one, and share it on Twitter. It uses a local array of quotes, Bootstrap for styling, and is deployed for testing with freeCodeCamp’s test suite & for personal learning for future upskilling of project(s.
 ###### Features
 Displays a random quote and its author on page load.
 
