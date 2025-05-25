@@ -1,6 +1,6 @@
-Random Quote Machine
+###### Random Quote Machine
 A React-based web application that displays random inspirational quotes, built as part of the freeCodeCamp Front End Development Libraries certification. The app allows users to view a random quote, fetch a new one, and share it on Twitter. It uses a local array of quotes, Bootstrap for styling, and is deployed for testing with freeCodeCamp’s test suite.
-Features
+###### Features
 Displays a random quote and its author on page load.
 
 Fetches a new random quote when the "New Quote" button is clicked.
@@ -11,13 +11,8 @@ Responsive design with a centered quote box using Bootstrap.
 
 Smooth transitions and hover effects for improved user experience.
 
-Passes all 11 freeCodeCamp user story tests.
+###### Technologies Used
 
-Live Demo
-View the live demo here (Replace with your actual deployment URL, e.g., Vercel or CodePen)
-Screenshots
-Random Quote Machine Screenshot (Add a screenshot to your repository and update the path if desired)
-Technologies Used
 React: For building the user interface.
 
 Bootstrap: For responsive styling and layout.
@@ -28,13 +23,13 @@ SCSS: For custom styles with transitions and hover effects.
 
 JavaScript: For logic to select random quotes from a local array.
 
-Installation
+###### Installation
 To run the project locally, follow these steps:
 Prerequisites
 Node.js (v14 or higher) and npm
 
 
-File Structure
+###### File Structure
 
 quote-machine/
 ├── public/
@@ -48,4 +43,3 @@ quote-machine/
 ├── .gitignore           # Ignores node_modules, build, etc.
 ├── package.json         # Project dependencies and scripts
 └── README.md            # Project documentation
-
